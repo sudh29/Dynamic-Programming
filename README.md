@@ -7,3 +7,5 @@
 [2 Binomial CoefficientProblem](2_Binomial_CoefficientProblem.py)
 
 [3 Permutation CoefficientProblem](3_Permutation_CoefficientProblem.py)
+
+[4 Program for nth Catalan Number](4_Program_for_nth_Catalan_Number.py)
