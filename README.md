@@ -9,3 +9,6 @@
 [3 Permutation CoefficientProblem](3_Permutation_CoefficientProblem.py)
 
 [4 Program for nth Catalan Number](4_Program_for_nth_Catalan_Number.py)
+
+
+[7 Subset Sum Problem](7_Subset_Sum_Problem.py)
