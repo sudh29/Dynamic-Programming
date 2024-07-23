@@ -12,3 +12,5 @@
 
 
 [7 Subset Sum Problem](7_Subset_Sum_Problem.py)
+
+[8 Friends Pairing Problem](8_Friends_Pairing_Problem.py)
