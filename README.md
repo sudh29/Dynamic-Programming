@@ -14,3 +14,5 @@
 [7 Subset Sum Problem](7_Subset_Sum_Problem.py)
 
 [8 Friends Pairing Problem](8_Friends_Pairing_Problem.py)
+
+[9 Gold Mine Problem](9_Gold_Mine_Problem.py)
