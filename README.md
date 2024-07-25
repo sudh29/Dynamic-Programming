@@ -18,3 +18,5 @@
 [9 Gold Mine Problem](9_Gold_Mine_Problem.py)
 
 [11 Painting the Fenceproblem](11_Painting_the_Fenceproblem.py)
+
+[12 Maximize The Cut Segments](12_Maximize_The_Cut_Segments.py)
