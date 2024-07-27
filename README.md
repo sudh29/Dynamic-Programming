@@ -22,3 +22,5 @@
 [12 Maximize The Cut Segments](12_Maximize_The_Cut_Segments.py)
 
 [13 Longest Common Subsequence](13_Longest_Common_Subsequence.py)
+
+[14 Longest Repeated Subsequence](14_Longest_Repeated_Subsequence.py)
