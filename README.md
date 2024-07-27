@@ -20,3 +20,5 @@
 [11 Painting the Fenceproblem](11_Painting_the_Fenceproblem.py)
 
 [12 Maximize The Cut Segments](12_Maximize_The_Cut_Segments.py)
+
+[13 Longest Common Subsequence](13_Longest_Common_Subsequence.py)
