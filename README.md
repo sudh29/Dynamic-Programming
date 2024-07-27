@@ -24,3 +24,8 @@
 [13 Longest Common Subsequence](13_Longest_Common_Subsequence.py)
 
 [14 Longest Repeated Subsequence](14_Longest_Repeated_Subsequence.py)
+
+[15 Longest Increasing Subsequence](15_Longest_Increasing_Subsequence.py)
+
+
+
