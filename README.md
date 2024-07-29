@@ -27,5 +27,7 @@
 
 [15 Longest Increasing Subsequence](15_Longest_Increasing_Subsequence.py)
 
+[16 Space Optimized Solution LCS](16_Space_Optimized_Solution_LCS.py)
+
 
 
