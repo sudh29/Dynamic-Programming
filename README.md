@@ -29,5 +29,7 @@
 
 [16 Space Optimized Solution LCS](16_Space_Optimized_Solution_LCS.py)
 
+[17 LCS of three strings](17_LCS_of_three_strings.py)
+
 
 
