@@ -31,6 +31,8 @@
 
 [17 LCS of three strings](17_LCS_of_three_strings.py)
 
+[18 Maximum Sum Increasing Subsequence](18_Maximum_Sum_Increasing_Subsequence.py)
+
 [19 Count all subsequences product less than K](19_Count_all_subsequences_product_less_than_K.py)
 
 
