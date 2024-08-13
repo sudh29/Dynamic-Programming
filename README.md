@@ -35,7 +35,9 @@
 
 [19 Count all subsequences product less than K](19_Count_all_subsequences_product_less_than_K.py)
 
-[20_Longest_subsequence_1.py](20_Longest_subsequence_1.py)
+[20 Longest subsequence 1](20_Longest_subsequence_1.py)
+
+[21 Max Sum without Adjacents 2](21_Max_Sum_without_Adjacents_2.py)
 
 
 
