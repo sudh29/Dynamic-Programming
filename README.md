@@ -35,5 +35,7 @@
 
 [19 Count all subsequences product less than K](19_Count_all_subsequences_product_less_than_K.py)
 
+[20_Longest_subsequence_1.py](20_Longest_subsequence_1.py)
+
 
 
