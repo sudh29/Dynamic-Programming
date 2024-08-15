@@ -39,5 +39,7 @@
 
 [21 Max Sum without Adjacents 2](21_Max_Sum_without_Adjacents_2.py)
 
+[22 Egg Dropping Problem](22_Egg_Dropping_Problem.py)
+
 
 
