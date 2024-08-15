@@ -2,6 +2,11 @@
 
 class Solution:
     def eggDrop(self,N, K):
+        if N==1:
+            return K
+        if K==0:
+            return 0
+            
         dp = [[0 for _ in range(K + 1)] for _ in range(N + 1)]
     
         for i in range(1, N + 1):
