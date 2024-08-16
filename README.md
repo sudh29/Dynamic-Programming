@@ -43,4 +43,6 @@
 
 [23 Max length chain](23_Max_length_chain.py)
 
+[24 Maximum size square sub matrix with all 1s](24_Maximum_size_square_sub_matrix_with_all_1s.py)
+
 
