@@ -45,4 +45,6 @@
 
 [24 Maximum size square sub matrix with all 1s](24_Maximum_size_square_sub_matrix_with_all_1s.py)
 
+[25 Maximum sum pairs specific difference](25_Maximum_sum_pairs_specific_difference.py)
+
 
