@@ -49,3 +49,5 @@
 
 [26 Min Cost PathProblem](26_Min_Cost_PathProblem.py)
 
+[27 Maximum difference zeros and ones binary string](27_Maximum_difference_zeros_and_ones_binary_string.py)
+
