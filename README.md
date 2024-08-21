@@ -53,3 +53,5 @@
 
 [28 Minimum number jumps reach end](28_Minimum_number_jumps_reach_end.py)
 
+[29 Minimum cost fill weight bag](29_Minimum_cost_fill_weight_bag.py)
+
