@@ -55,3 +55,5 @@
 
 [29 Minimum cost fill weight bag](29_Minimum_cost_fill_weight_bag.py)
 
+[30 Array Removals](30_Array_Removals.py)
+
