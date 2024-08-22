@@ -57,3 +57,5 @@
 
 [30 Array Removals](30_Array_Removals.py)
 
+[31 Longest Common Substring](31_Longest_Common_Substring.py)
+
