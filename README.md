@@ -59,3 +59,5 @@
 
 [31 Longest Common Substring](31_Longest_Common_Substring.py)
 
+[32 Reach given score](32_Reach_given_score.py)
+
