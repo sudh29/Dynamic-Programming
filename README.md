@@ -65,3 +65,5 @@
 
 [34 LargestSum Contiguous Subarray](34_LargestSum_Contiguous_Subarray.py)
 
+[35 Smallest sum contiguous subarray](35_Smallest_sum_contiguous_subarray.py)
+
