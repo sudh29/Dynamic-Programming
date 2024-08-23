@@ -61,3 +61,5 @@
 
 [32 Reach given score](32_Reach_given_score.py)
 
+[33 BBT counter](33_BBT_counter.py)
+
