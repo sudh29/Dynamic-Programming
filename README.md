@@ -67,3 +67,5 @@
 
 [35 Smallest sum contiguous subarray](35_Smallest_sum_contiguous_subarray.py)
 
+[36 Unbounded Knapsack](36_Unbounded_Knapsack.py)
+
