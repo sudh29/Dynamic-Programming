@@ -75,3 +75,5 @@
 
 [39 Partition problem](39_Partition_problem.py)
 
+[40 Longest Palindromic Subsequence](40_Longest_Palindromic_Subsequence.py)
+
