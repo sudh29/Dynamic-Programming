@@ -79,3 +79,5 @@
 
 [41 Count Palindromic Subsequences](41_Count_Palindromic_Subsequences.py)
 
+[43 Longest alternating subsequence](43_Longest_alternating_subsequence.py)
+
