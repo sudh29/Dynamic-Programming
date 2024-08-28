@@ -83,3 +83,5 @@
 
 [43 Longest alternating subsequence](43_Longest_alternating_subsequence.py)
 
+[44 Weighted Job Scheduling](44_Weighted_Job_Scheduling.py)
+
