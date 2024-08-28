@@ -85,3 +85,5 @@
 
 [44 Weighted Job Scheduling](44_Weighted_Job_Scheduling.py)
 
+[47 Buy and Sell Share at most twice](47_Buy_and_Sell_Share_at_most_twice.py)
+
