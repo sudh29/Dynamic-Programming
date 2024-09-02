@@ -87,3 +87,5 @@
 
 [47 Buy and Sell Share at most twice](47_Buy_and_Sell_Share_at_most_twice.py)
 
+[48 Optimal Strategy Game](48_Optimal_Strategy_Game.py)
+
