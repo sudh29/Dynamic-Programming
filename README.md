@@ -89,3 +89,5 @@
 
 [48 Optimal Strategy Game](48_Optimal_Strategy_Game.py)
 
+[52 Mobile Numeric Keypad Problem](52_Mobile_Numeric_Keypad_Problem.py)
+
