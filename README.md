@@ -91,3 +91,5 @@
 
 [52 Mobile Numeric Keypad Problem](52_Mobile_Numeric_Keypad_Problem.py)
 
+[56 Maximum sum Rectangle](56_Maximum_sum_Rectangle.py)
+
