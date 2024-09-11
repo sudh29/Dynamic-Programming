@@ -94,6 +94,8 @@
 
 [56 Maximum sum Rectangle](56_Maximum_sum_Rectangle.py)
 
+[57 Stock Buy Sell Max K Transactions Allowed](57_Stock_Buy_Sell_Max_K_Transactions_Allowed,py)
+
 [58 Interleaved Strings](58_Interleaved_Strings.py)
 
 [59 Maximum Length of Pair Chain](59_Maximum_Length_of_Pair_Chain.py)
